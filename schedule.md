@@ -29,10 +29,10 @@ Schedule of Activities
 
 **Week 4: February 16**
 
--   [George Saunders](http://www.georgesaundersbooks.com/about/), ["Brad
+-   ~~[George Saunders](http://www.georgesaundersbooks.com/about/), ["Brad
     Carrigan,
     American"](https://dl.dropboxusercontent.com/u/21971525/Brad%20Carrigan%2C%20American.pdf)
-    (2005)
+    (2005)~~ **404**
 
 Additional Resources:
 
@@ -98,15 +98,15 @@ Additional Resources:
     Freedom"](http://kelty.org/or/papers/Kelty_2014_Fog_of_Freedom.pdf)
     (2014)
 
--   [Gabriella Coleman](http://gabriellacoleman.org/), Selections from
+-   ~~[Gabriella Coleman](http://gabriellacoleman.org/), Selections from
     [<http://codingfreedom.com/buy_download.html>''Coding Freedom']
-    (2013): "Introduction"
+    (2013): "Introduction"~~ **404**
 
 **Week 10: March 30**
 
--   [Gabriella Coleman](http://gabriellacoleman.org/), Selections from
+-   ~~[Gabriella Coleman](http://gabriellacoleman.org/), Selections from
     [<http://codingfreedom.com/buy_download.html>''Coding Freedom']
-    (2013): "Code is Speech"
+    (2013): "Code is Speech"~~ **404**
 
 **Week 11: April 6**
 
