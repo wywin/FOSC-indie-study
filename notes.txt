@@ -1,0 +1,7 @@
+http://etherpad.osuosl.org/fosc-wywinn-indystudy
+
+a blog a week about reading + big thing at end
+
+http://fosc.fossr.it/index.php/Free:OpenandClosedSourceCultures2014
+
+http://fosc.fossr.it/api.php?action=query&list=allpages&aplimit=500

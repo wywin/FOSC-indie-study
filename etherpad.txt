@@ -1,0 +1,26 @@
+From http://etherpad.osuosl.org/fosc-wywinn-indystudy (It's just one "n" Remy)
+
+Independent Study: Free/Open Source Culture
+
+
+To Do:
+
+    - Create GitHub Repo - FOSC Indie Study (done)
+    - Setup up Blog (done)
+    - Convert Reading List for Spring Semester:  http://fosc.fossr.it/index.php/Free:OpenandClosedSourceCultures2014#Schedule_of_Activities (done?)
+    - Any 404's (that don't have an email with the readings attached) will be the ones we skip for starting in week 3 (404s marked in schedule.md)
+    - Add each of the emailed readings to the repo (or Readings.md, schedule.md, or whatever you will call it) (done?)
+    - Commit this file to your github repo too ;) (done! :D)
+
+Deliverables:
+Each Week, in lieu of class discussion, you'll make a blog post, following the litreview template from other FOSS courses
+That means 13 Blog posts over the next 13 Weeks
+
+At the end of the semester, you'll be creating a final paper or project, as per FOSC syllabus.
+
+"You may respond analytically, creatively and/or in multimodal forms  (sound, image, video, code). If you are writing a traditional essay the  length should be about 1500 words."
+
+
+Next Time:
+Deploy an ofcourse content module with your content you've collected :)
+
